@@ -1,0 +1,27 @@
+.git/
+
+build
+dist
+*.egg-info
+*.egg/
+*.pyc
+**/__pycache__
+*.swp
+
+.tox
+.coverage
+html/*
+
+# Environments
+venv/
+
+
+# Test Log or Test Report
+log/
+screenshots/
+allure-report/
+allure-results/
+
+# Document
+README.md
+Dockerfile
