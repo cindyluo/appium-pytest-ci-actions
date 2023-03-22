@@ -1,9 +1,0 @@
-Emulator_three:
-  platformName: "Android"
-  automationName: "UiAutomator2"
-  platformVersion: "5.1.1"
-  deviceName: "emulator-5554"
-  appActivity: "com.google.android.apps.chrome.Main"
-  appPackage: "com.android.chrome"
-  noReset: "false"
-  udid: "emulator-5554"

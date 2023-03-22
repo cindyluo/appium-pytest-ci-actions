@@ -15,7 +15,7 @@ shell)
 	exec /bin/sh "$@"
 	;;
 test)
-    python main.py "$2"
+    python main.py
 	;;
 *)
 	echo "unknown command: $1"

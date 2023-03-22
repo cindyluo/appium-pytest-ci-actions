@@ -1,9 +1,0 @@
-Pixel6:
-  platformName: "Android"
-  automationName: "UiAutomator2"
-  platformVersion: "13.0"
-  deviceName: "1A061FDF600EYC"
-  appPackage: "com.google.android.calculator"
-  appActivity: "com.android.calculator2.Calculator"
-  noReset: "false"
-  udid: "1A061FDF600EYC"
